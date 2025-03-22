@@ -2,7 +2,7 @@
 pip>=9.0
 scipy
 numpy
-opendr
+git+https://github.com/mattloper/opendr
 matplotlib
 scikit-image
 deepdish>=0.3
